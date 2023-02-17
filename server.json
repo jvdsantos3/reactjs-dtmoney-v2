@@ -23,6 +23,14 @@
       "category": "Alimentação",
       "createdAt": "2023-02-17T03:45:20.896Z",
       "id": 3
+    },
+    {
+      "description": "Teste",
+      "price": 1000,
+      "type": "outcome",
+      "category": "Alimentação",
+      "createdAt": "2023-02-17T18:40:51.673Z",
+      "id": 4
     }
   ]
 }
